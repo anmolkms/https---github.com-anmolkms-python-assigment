@@ -1,0 +1,10 @@
+a=bool(input(" a bool nub"))
+z=int(a)
+print("value in int is :-",z)
+b=float(a)
+print("value in float is-",b)
+c=str(a)
+print("value in str is-",c)
+e=complex(a)
+print("value in complex is-",e)
+

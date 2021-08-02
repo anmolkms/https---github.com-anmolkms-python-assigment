@@ -1,0 +1,7 @@
+a=complex(input("enter a complex nub"))
+b=bool(a)
+print("the value in boolian is",b)
+print(type(b))
+c=str(a)
+print("the value in boolian is",c)
+print(type(c))
